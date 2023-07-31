@@ -1,3 +1,2 @@
 # Walmart-Sales-Analysis
-
-#created a interactive dashboard using powerbi
+created a interactive dashboard using powerbi
