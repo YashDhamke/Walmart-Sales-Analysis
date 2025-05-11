@@ -1,2 +1,3 @@
 # Walmart-Sales-Analysis and forecasting
 Created a Interactive Dashboard on POWER-BI which focuses on visualising and analysing the walmart sales data using various types of  charts.Performed time series analysis to generate sales forecast for next 15 days.Generated valuable insights and actionable information that can drive strategic decision making process and support the walmart's goal for growth,efficiency and customer satisfaction. 
+![powerBI dashboard](Walmart Sales Analysis.pdf)
